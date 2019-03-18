@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/.idea/*
+*.xml
+*.pyc
+*.RData
+*.Rhistory
+.Rproj.user
+/.ipynb_checkpoints/*
