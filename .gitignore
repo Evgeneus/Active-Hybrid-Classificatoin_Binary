@@ -110,3 +110,5 @@ venv.bak/
 *.Rhistory
 .Rproj.user
 /.ipynb_checkpoints/*
+.DS_Store
+
